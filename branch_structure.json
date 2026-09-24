@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/privy-connection-errors",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/privy-connection-errors": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/privy-connection-errors",
+    "origin"
+  ]
+}
